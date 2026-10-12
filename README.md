@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kevin Baraiya
 
-### Python Engineer | Full Stack Developer | API Integration Specialist
+### Python Engineer | API Integration Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Python+Engineer;FastAPI+%7C+Django+%7C+Flask;Full+Stack+Developer;SaaS+Application+Developer;REST+API+Specialist;AWS+Cloud+Developer;Always+Learning+New+Technologies" />
 
